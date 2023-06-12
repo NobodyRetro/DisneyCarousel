@@ -1,0 +1,15 @@
+D:\LearningCode\DisneyCarousel\bin\Debug\net7.0\DisneyCarousel.exe
+D:\LearningCode\DisneyCarousel\bin\Debug\net7.0\DisneyCarousel.deps.json
+D:\LearningCode\DisneyCarousel\bin\Debug\net7.0\DisneyCarousel.runtimeconfig.json
+D:\LearningCode\DisneyCarousel\bin\Debug\net7.0\DisneyCarousel.dll
+D:\LearningCode\DisneyCarousel\bin\Debug\net7.0\DisneyCarousel.pdb
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.csproj.AssemblyReference.cache
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.AssemblyInfoInputs.cache
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.AssemblyInfo.cs
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.csproj.CoreCompileInputs.cache
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.dll
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\refint\DisneyCarousel.dll
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.pdb
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\DisneyCarousel.genruntimeconfig.cache
+D:\LearningCode\DisneyCarousel\obj\Debug\net7.0\ref\DisneyCarousel.dll
